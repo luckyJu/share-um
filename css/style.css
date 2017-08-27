@@ -1,0 +1,30 @@
+.brand-heading {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+.navbar{
+    color: red !important; 
+}
+
+#mainNav a {
+    color: red; 
+}
+
+#download {
+    background-color: #C4C4C4
+}
+.intro-text{
+    color: red; 
+}
+.btn-default{
+    color:red;
+    border:1px solid red;
+    background-color:transparent;
+}
+.btn-default:hover {
+    background-color: red;
+}
